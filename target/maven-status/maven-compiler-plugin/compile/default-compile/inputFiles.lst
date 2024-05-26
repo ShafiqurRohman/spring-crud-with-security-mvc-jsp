@@ -1,0 +1,12 @@
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/repositories/implementations/UserInfoCustomRepository.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/config/JpaConfig.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/extensions/mappers/AutoMapper.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/config/WebConfig.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/services/implementations/UserInfoService.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/services/interfaces/IUserInfoService.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/repositories/interfaces/IUserInfoCustomRepository.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/extensions/dtos/UserInfoDto.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/SpringCrudWithSecurityMvcJspApplication.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/controllers/UserController.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/repositories/interfaces/IUserInfoRepository.java
+/home/user/WebstormProjects/Learning/spring-crud-with-security-mvc-jsp/src/main/java/com/springbootmvc/springcrudwithsecuritymvcjsp/entities/UserInfo.java
